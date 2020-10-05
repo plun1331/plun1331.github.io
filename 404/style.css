@@ -71,3 +71,49 @@ Navigation item hover
   border: medium;
   border-radius: 8px;
 }
+
+.bottom-footer{
+  background: linear-gradient(rgb(23, 23, 24), rgb(35, 36, 37), rgb(44, 44, 46));
+  color: white;
+  width: 100%;
+}
+
+.bottom-footer footer{
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottom-footer h5{
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  line-height: 1.0;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+.bottom-footer a{
+  color: #8c8c8c;
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  line-height: 1.0;
+  font-size: 0.900rem;
+  font-weight: 200;
+}
+
+.bottom-footer p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #8c8c8c;
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  line-height: 1.0;
+  font-size: 0.900rem;
+  font-weight: 200;
+}
+
+.bottom-footer a:hover{
+  color: #ecaf3c !important;
+  border-radius: 8px !important;
+}
