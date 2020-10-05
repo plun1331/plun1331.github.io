@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#272727">
+    <meta name="description" content="HexitGames - Minecraft Server">
+    <link rel="stylesheet" href="style.css">
+    <title>Hexit</title>
+    <link rel="shortcut icon" href="assets/logo.png" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.css">
+    <!-- Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Bootstrap Core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Navigation JS -->
+    <script type="text/javascript" charset="utf8"
+        src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <!-- Material bootstrap "adds spacing to sections" -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!--  Navigation -->
+    <div id="navbar">
+        <nav class="navbar navbar-expand-lg navbar-dark static-top" style="background-color: #101A20;">
+            <a class="navbar-brand" href="#">
+                <img src="https://cdn.nethergames.org/img/logo/double-line-light.png" alt="" style="height: 45px;">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav navbar-left">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Statics</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Vote</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Store</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item-2">
+                        <a class="nav-link" href="#">Discord</a>
+                    </li>
+                    <li class="nav-item-2">
+                        <a class="nav-link" href="#">Forums</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    <!-- The data box
+        <h5 class="head-title">FADHEL GAMER</h5>
+     -->
+    <center style="padding: 10%;">
+        <div class="card text-left bg-info mb-3" style="width: 40%;">
+            <div class="card-body">
+                <div class="head-title">
+                    <h5>
+                        <img src="https://cdn.discordapp.com/attachments/735208715828985906/735546891789402282/thedivel12345.png"
+                            alt="avatar" class="rounded-circle">
+                        thedivel12345</h5>
+                </div>
+                <p class="desc">0.0 k/d · 0 kills · 0 deaths · 0 streaks · 500 elo.</p>
+                <a data-toggle="collapse" href="#Stats" aria-expanded="true" aria-controls="collapseOne"
+                    aria-controls="test-block">
+                    Game Statics
+                </a>
+                <div class="row">
+                    <div class="collapse" id="Stats">
+                        <div class="card-block" style="padding-left: 15px;">
+                            <table class="table table-borderless">
+                                <thead>
+                                    <tr>
+                                        <th scope="col" class="test">Type</th>
+                                        <th scope="col">K/D</th>
+                                        <th scope="col">Kills</th>
+                                        <th scope="col">Deaths</th>
+                                        <th scope="col">Streaks</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="player-data">
+                                    <tr>
+                                        <th scope="row" class="test">Daily</th>
+                                        <td>0.0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row" class="test">Monthly</th>
+                                        <td>0.0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row" class="test">Lifetime</th>
+                                        <td>0.0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <a data-toggle="collapse" href="#Punishments" aria-expanded="false" aria-controls="test-block">
+                    Punishment History
+                </a>
+                <div class="row">
+                    <div class="collapse" id="Punishments">
+                        <div class="card-block">
+                            <p data-toggle="collapse" href="#Stats" aria-expanded="true" aria-controls="collapseOne"
+                                aria-controls="test-block">
+                            <table class="table table-borderless">
+                                <thead>
+                                    <tr>
+                                        <th scope="col" class="test">Punishment</th>
+                                        <th scope="col">Staff</th>
+                                        <th scope="col">Reason</th>
+                                        <th scope="col">Expieration</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="player-data">
+                                    <tr>
+                                        <th scope="row" class="test">Ban</th>
+                                        <td>Adam</td>
+                                        <td>Somehing</td>
+                                        <td>7/23/2020</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </center>
+</body>
+
+</html>
