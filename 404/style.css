@@ -72,6 +72,26 @@ Navigation item hover
   border-radius: 8px;
 }
 
+.content{
+  text-align: center;
+  padding: 100px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: #23272a;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content p{
+  font-size: 0.900rem;
+
+}
+
+.content h2{
+  font-weight: 400;
+}
+
 .bottom-footer{
   background: linear-gradient(rgb(23, 23, 24), rgb(35, 36, 37), rgb(44, 44, 46));
   color: white;
