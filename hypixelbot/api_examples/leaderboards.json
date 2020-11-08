@@ -1,0 +1,1812 @@
+{
+    "success": true,
+    "leaderboards": {
+      "ARENA": [
+        {
+          "path": "arena_rating_b",
+          "prefix": "Overall",
+          "title": "Rating",
+          "location": "-2554,55,715",
+          "count": 10,
+          "leaders": [
+            "dda3fc72-4a8f-467b-8a80-33aadde1b569",
+            "cc3e837e-3885-4361-a99a-85b32942ae00",
+            "e8dd1375-bf54-4941-a808-67e2a6fa6491",
+            "50f0a843-635b-4a91-b188-ec2e18bfdc04",
+            "129040ec-0e7d-4afa-8c40-16bb5d0a7fbd",
+            "1a02b5d6-1e95-468f-bed3-def763a75b0e",
+            "886ccd9d-d16d-4b8f-bf98-8b00831f9e30",
+            "0c1f10f9-134e-4963-99b6-502270055a10",
+            "86072b6c-1f4e-4ed7-8b03-b828a47c33d9",
+            "758ba260-e6af-4716-b50c-c773deac05f0",
+            "ed03446e-6d8b-4d3c-87a5-6a3afc197a8b"
+          ]
+        },
+        {
+          "path": "wins_1v1",
+          "prefix": "Overall",
+          "title": "1v1 Wins",
+          "location": "-2554,54,715",
+          "count": 10,
+          "leaders": [
+            "425fa076-cf95-4174-b3fc-c57943ebddba",
+            "42d17101-d916-4b8a-a70b-93dc6ccbee27",
+            "576749eb-6728-4773-a41b-b418a62f9c01",
+            "e5dcd129-69dc-479a-8d32-4fc423d755b9",
+            "6128be08-73d0-4b73-b594-8f4bdc120c6c",
+            "19ec6d74-86f9-4305-a3a4-29fd802a5de0",
+            "82b1699a-118d-4264-b75e-4d5fe7604cce",
+            "4b65e633-1ba9-41fb-8467-322de5d56ae3",
+            "fd5d47e6-ee34-4fbb-a126-a446f7ea5e62",
+            "6fe069a5-5d8f-40b6-96db-aeaf21a3c4c1",
+            "d19b009b-8feb-4fb9-95db-3316737c211f"
+          ]
+        }
+      ],
+      "MCGO": [
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "-2550,55,715",
+          "count": 10,
+          "leaders": [
+            "7b1bb9c3-188d-4c7b-811b-90da2f670665",
+            "c8d0e91a-f6a1-42f4-94ee-c3fe21991435",
+            "da30c949-7de4-4131-ad3e-609f5f277eb9",
+            "1266f943-0704-411b-b544-bde93fee8b14",
+            "1d22de77-31bc-4f6b-af1c-1b5bac5ca1f4",
+            "85a528f4-d614-4170-96c6-0e7c93ee91d8",
+            "66ec4826-2911-45a8-81c3-f955c136683f",
+            "4d891348-6be6-497c-8d41-4d19f26d8e32",
+            "8a0a815f-006d-4b2e-acd6-918d981ad9b1",
+            "14d56c40-de10-4051-8369-e729ebc81feb",
+            "39aea766-a8db-473b-a80d-a72413b52fbb"
+          ]
+        },
+        {
+          "path": "normal_wins_2",
+          "prefix": "Monthly",
+          "title": "Defusal Wins",
+          "location": "0,0,0",
+          "count": 10,
+          "leaders": [
+            "fa0e925a-9f63-42dd-8edc-8beae92fb065",
+            "ff6b7b72-26ff-4e68-bd10-5f0c0d3ad8c7",
+            "f9f7cda1-07db-4c53-896d-1857603606b2",
+            "1ea5c6ee-7ae5-4c94-83c0-5306c7b252aa",
+            "f179aeca-773f-4fc1-9d0e-ed075f9d4920",
+            "9d804af3-e142-4e57-8611-39d538dcbc61",
+            "1266f943-0704-411b-b544-bde93fee8b14",
+            "4eab6800-35a6-4aaa-be3c-cd9c5fbabf1a",
+            "dce6195a-164d-4bcf-8973-d9f34c96b2fd",
+            "4d7e0822-f01f-4173-8bd2-9139bc577848",
+            "00305761-6925-45a8-bb84-8fdf0dddb1be"
+          ]
+        },
+        {
+          "path": "normal_wins_1",
+          "prefix": "Weekly",
+          "title": "Defusal Wins",
+          "location": "0,0,0",
+          "count": 10,
+          "leaders": [
+            "fa0e925a-9f63-42dd-8edc-8beae92fb065",
+            "285acaad-8980-44c0-b8b0-fb4e106c1d25",
+            "9c1d8919-43b5-4dc6-834b-064208d90f98",
+            "1c5cfb6b-ecbb-4d11-888c-500bd7577986",
+            "44eb57bc-d5fc-4ad1-88e7-6e91add1753e",
+            "4eab6800-35a6-4aaa-be3c-cd9c5fbabf1a",
+            "4fdf668d-1174-4d44-98fa-2ab8e9bc4028",
+            "84e1cd22-bce6-4a06-b35e-fbf7172d149d",
+            "f82a8174-c839-4035-abb7-0b5f9a4c9697",
+            "e7604f77-7f09-45ff-8c0d-3a9ca90bc8b6",
+            "3c23ef79-db9a-4245-a51a-1998a461d595"
+          ]
+        },
+        {
+          "path": "deathmatch_wins_2",
+          "prefix": "Monthly",
+          "title": "Deathmatch Wins",
+          "location": "0,0,0",
+          "count": 10,
+          "leaders": [
+            "d784e3ef-9f7a-43af-8e47-f0fe1d02474c",
+            "9535b4f7-e59e-4ce0-b46d-7c41fe6d72fb",
+            "902fbfd8-9e62-471e-8668-777296bd02cd",
+            "38d19a8a-e577-43f1-b505-840c30a1e10d",
+            "d8aced81-ba33-4bba-97cf-d511a010a45a",
+            "2a73833b-ef21-492f-be64-53bf62d45596",
+            "fcb90f65-0c99-4635-b208-b0fbb9600b96",
+            "57440189-de46-4487-940e-91716ed3c126",
+            "174856cd-5ffa-4688-9750-19a47594bbcf",
+            "0d1f031d-76c1-4d06-bf26-1e5e5e5733e6",
+            "a9cf6dbe-2da3-43d1-befc-7b6f7e72dbd9"
+          ]
+        },
+        {
+          "path": "deathmatch_wins_1",
+          "prefix": "Weekly",
+          "title": "Deathmatch Wins",
+          "location": "0,0,0",
+          "count": 10,
+          "leaders": [
+            "902fbfd8-9e62-471e-8668-777296bd02cd",
+            "57440189-de46-4487-940e-91716ed3c126",
+            "fcb90f65-0c99-4635-b208-b0fbb9600b96",
+            "886abf15-b6a9-455a-91e9-4fe63c0db281",
+            "d6c0a358-5dac-41cc-bd7f-dd3f6bd674d7",
+            "8a9dacdf-8d99-4ad9-9b07-55728d547a17",
+            "760d5cc6-81de-4068-99da-f1e2c0bb4236",
+            "41098eeb-8502-4833-bee6-6cbfbf4dda78",
+            "40d773c1-54b2-41ff-9f40-5efb6aefff26",
+            "4b81bdf0-ff63-4987-9266-1a8d2226f08a",
+            "16ea1667-1d61-45fa-b093-dc813a1571ad"
+          ]
+        }
+      ],
+      "BATTLEGROUND": [
+        {
+          "path": "wins",
+          "prefix": "Overall",
+          "title": "Wins",
+          "location": "-2554,55,715",
+          "count": 10,
+          "leaders": [
+            "8bb6dd7f-b3de-43ec-af7e-1be7975e7bca",
+            "45fdbb18-52d6-4002-807d-240cdafcdab8",
+            "a61f48d2-c47f-4810-80ef-a3a6e8bf7cb6",
+            "352ee5f2-caf3-4806-b396-a12f4a7ef8a1",
+            "01c4a20e-0a60-466f-bd98-ea71c346e5e4",
+            "ca32eb9a-10ed-4ed1-82df-4a8e45ae3fea",
+            "a342c911-db31-4b00-8c79-51c8ab91f5a0",
+            "9f2b2230-3b2c-4b0f-a141-d7b598e236c7",
+            "e50bfd84-b035-4f0d-998a-886f439e83b4",
+            "3970f625-235a-48ba-9458-0f75147469aa",
+            "c943524c-9e81-4137-b505-2adb7971c4f5"
+          ]
+        },
+        {
+          "path": "wins_domination",
+          "prefix": "Overall",
+          "title": "DOM Wins",
+          "location": "-2554,53,715",
+          "count": 10,
+          "leaders": [
+            "f494f87c-a628-4506-bbe5-c15379cae4ec",
+            "45fdbb18-52d6-4002-807d-240cdafcdab8",
+            "c943524c-9e81-4137-b505-2adb7971c4f5",
+            "5f168163-ced2-4645-b424-1e48de4627a1",
+            "af9b19e6-eebb-4064-946a-a4df843f7ddc",
+            "15a6f19e-ff68-46e1-9d2c-681fd3182e2f",
+            "352ee5f2-caf3-4806-b396-a12f4a7ef8a1",
+            "f144204d-72de-4407-99d4-a1fbed50437b",
+            "a342c911-db31-4b00-8c79-51c8ab91f5a0",
+            "de1ed756-a03d-4c38-a19c-48a92bdad994",
+            "00c0d688-ad33-4f8c-af73-5b2b1b4bcf34"
+          ]
+        },
+        {
+          "path": "wins_teamdeathmatch",
+          "prefix": "Overall",
+          "title": "TDM Wins",
+          "location": "-2554,52,715",
+          "count": 10,
+          "leaders": [
+            "45fdbb18-52d6-4002-807d-240cdafcdab8",
+            "3d2fb54b-4c70-409e-a2b9-50a5c42eccc7",
+            "73fe74a1-8ae5-475f-a527-cbaf90e394c6",
+            "8bb6dd7f-b3de-43ec-af7e-1be7975e7bca",
+            "ca32eb9a-10ed-4ed1-82df-4a8e45ae3fea",
+            "c943524c-9e81-4137-b505-2adb7971c4f5",
+            "fefe0264-7bd4-4600-abe3-756edf509631",
+            "f144204d-72de-4407-99d4-a1fbed50437b",
+            "3970f625-235a-48ba-9458-0f75147469aa",
+            "de614ca3-7861-4235-8e60-d136f373f138",
+            "352ee5f2-caf3-4806-b396-a12f4a7ef8a1"
+          ]
+        },
+        {
+          "path": "wins_capturetheflag",
+          "prefix": "Overall",
+          "title": "CTF Wins",
+          "location": "-2554,51,715",
+          "count": 10,
+          "leaders": [
+            "a61f48d2-c47f-4810-80ef-a3a6e8bf7cb6",
+            "8bb6dd7f-b3de-43ec-af7e-1be7975e7bca",
+            "352ee5f2-caf3-4806-b396-a12f4a7ef8a1",
+            "01c4a20e-0a60-466f-bd98-ea71c346e5e4",
+            "e50bfd84-b035-4f0d-998a-886f439e83b4",
+            "1a58c8a7-e75a-454e-beb0-c49c63e267a1",
+            "ec9aa516-fcd4-4e52-8a8d-e3d1a3d490d1",
+            "9f2b2230-3b2c-4b0f-a141-d7b598e236c7",
+            "45fdbb18-52d6-4002-807d-240cdafcdab8",
+            "f2c85e16-12d9-4d8e-8583-09d9e1ecb31a",
+            "f170f4c6-08d8-43f6-b6a3-fa53147bc9f4"
+          ]
+        }
+      ],
+      "SURVIVAL_GAMES": [
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "-2554,55,715",
+          "count": 10,
+          "leaders": [
+            "bba8054c-872a-4e24-a74d-858e9b9d0b13",
+            "6c90504a-adb5-4099-9954-c23692703830",
+            "7166de62-b38c-4733-ac33-ab7852b03ed6",
+            "fbdbf653-3723-4edd-85ae-2d28b60221f9",
+            "a0b055bd-ad9a-446b-9866-6cbee23ecb47",
+            "2e7d0e70-4fe3-4d92-849a-24fcf7f9894e",
+            "63488c2c-f2dc-48c0-951b-df71efbbdb09",
+            "c4a1ff2b-f9ba-4e78-aeaa-07791b8102d5",
+            "27ae0f17-2089-4bd7-a11b-08e741aa9024",
+            "59be72ea-dc3d-4158-9f9a-80a2b494752f",
+            "02f6bd8b-a869-4964-8b33-8c2bb38af831"
+          ]
+        },
+        {
+          "path": "wins_solo_normal",
+          "prefix": "Overall",
+          "title": "Solo Wins",
+          "location": "-2554,54,715",
+          "count": 10,
+          "leaders": [
+            "bba8054c-872a-4e24-a74d-858e9b9d0b13",
+            "2e7d0e70-4fe3-4d92-849a-24fcf7f9894e",
+            "6c90504a-adb5-4099-9954-c23692703830",
+            "9daa06c7-ad91-45ff-8cc7-9de088b6d686",
+            "02f6bd8b-a869-4964-8b33-8c2bb38af831",
+            "c4a1ff2b-f9ba-4e78-aeaa-07791b8102d5",
+            "fbdbf653-3723-4edd-85ae-2d28b60221f9",
+            "5713a81f-e74a-4bd7-8c4a-04d63acecabb",
+            "27ae0f17-2089-4bd7-a11b-08e741aa9024",
+            "c28ff9ce-9f25-4517-bcdc-41069c936cc4",
+            "7bb3316a-afbf-4fca-a939-0016e9ca0b1e"
+          ]
+        },
+        {
+          "path": "wins_teams",
+          "prefix": "Overall",
+          "title": "Teams Wins",
+          "location": "-2554,53,715",
+          "count": 10,
+          "leaders": [
+            "556cd0de-cd29-4962-9f1c-8b80234e4212",
+            "2a8e54f8-2e68-489a-9ece-6cadfd24b09c",
+            "7166de62-b38c-4733-ac33-ab7852b03ed6",
+            "5b05d1e7-76f4-4eb0-a759-9e4d3131fe85",
+            "a0b055bd-ad9a-446b-9866-6cbee23ecb47",
+            "9d4a4010-a5d0-444a-a252-4333db222f1f",
+            "bba8054c-872a-4e24-a74d-858e9b9d0b13",
+            "17047ae9-feb5-423e-8846-230fcc228476",
+            "59be72ea-dc3d-4158-9f9a-80a2b494752f",
+            "923e05b7-1beb-4527-9785-98ab766d849c",
+            "ef938e1a-eae8-4ebc-b78f-289f963e69ed"
+          ]
+        }
+      ],
+      "UHC": [
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "-2554,13,715",
+          "count": 10,
+          "leaders": [
+            "c9a3e421-9dd5-4623-bad5-d2569f546eb8",
+            "1c1419bf-3c22-412a-8e8a-63f3f5546ff4",
+            "692a8229-646c-4a85-99bf-f48d99c1e1f8",
+            "64e31ca7-17d3-4707-a077-873f5cde7632",
+            "9d32baef-8b62-46e5-a18a-85070384faca",
+            "579ce54f-d8ea-4bbb-9278-831f60b4272f",
+            "40f265a0-4233-4671-838a-3aa91a1349d5",
+            "07193d92-04ad-4fc7-94aa-ce5395e70f64",
+            "46b3c68a-f795-41bd-9d6c-bfe8e4678521",
+            "09a2e8a4-42d5-4902-b3f4-a656709dc550",
+            "bc0389c8-bcb4-496f-8985-9ce4a964eb61"
+          ]
+        },
+        {
+          "path": "monthly_kills_b",
+          "prefix": "Monthly",
+          "title": "Kills",
+          "location": "-2554,12,715",
+          "count": 10,
+          "leaders": [
+            "7040c0c7-5de4-4778-b11d-21dfe72efa0b",
+            "46b3c68a-f795-41bd-9d6c-bfe8e4678521",
+            "a336071c-f30d-44a8-aa9c-0e3e681a6678",
+            "09a2e8a4-42d5-4902-b3f4-a656709dc550",
+            "47d70a97-9a2c-4ea5-957a-488fe8c052df",
+            "e165aafc-3300-455b-b5ef-5d97d253ddce",
+            "cbeea57e-5160-4b91-8e82-00ad44193c95",
+            "d5906b47-c924-438b-953b-8acbd1410341",
+            "402eda79-34bd-4243-a71c-c9120a3c5be9",
+            "1871dfae-0a6a-4486-8366-6bc0131d370e",
+            "4766eecc-d64f-4e6b-9d64-1c7054377ee9"
+          ]
+        },
+        {
+          "path": "wins",
+          "prefix": "Overall",
+          "title": "Wins",
+          "location": "-2554,11,715",
+          "count": 10,
+          "leaders": [
+            "c9a3e421-9dd5-4623-bad5-d2569f546eb8",
+            "0aa4deda-eadd-43db-ae0e-df6649f51e09",
+            "94553984-0a4f-46e2-a138-1966e33d9f7f",
+            "0f7faca1-5a72-4b42-8c48-b9633d1d5e68",
+            "9d32baef-8b62-46e5-a18a-85070384faca",
+            "c6245d4f-40f8-48be-abe8-c94faf7e0d4c",
+            "c8effbc3-7041-4584-958c-467450546602",
+            "1ef5eaf5-1aaa-485c-bb83-f5437cef0c40",
+            "692a8229-646c-4a85-99bf-f48d99c1e1f8",
+            "1c1419bf-3c22-412a-8e8a-63f3f5546ff4",
+            "64e31ca7-17d3-4707-a077-873f5cde7632"
+          ]
+        },
+        {
+          "path": "monthly_wins_b",
+          "prefix": "Monthly",
+          "title": "Wins",
+          "location": "-2554,10,715",
+          "count": 10,
+          "leaders": [
+            "7040c0c7-5de4-4778-b11d-21dfe72efa0b",
+            "a336071c-f30d-44a8-aa9c-0e3e681a6678",
+            "46b3c68a-f795-41bd-9d6c-bfe8e4678521",
+            "09a2e8a4-42d5-4902-b3f4-a656709dc550",
+            "47d70a97-9a2c-4ea5-957a-488fe8c052df",
+            "c8effbc3-7041-4584-958c-467450546602",
+            "e165aafc-3300-455b-b5ef-5d97d253ddce",
+            "cbeea57e-5160-4b91-8e82-00ad44193c95",
+            "6c1a88d2-4717-46a2-baff-154061de9f30",
+            "40f265a0-4233-4671-838a-3aa91a1349d5",
+            "4766eecc-d64f-4e6b-9d64-1c7054377ee9"
+          ]
+        }
+      ],
+      "WALLS": [
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "-2555,42,710",
+          "count": 10,
+          "leaders": [
+            "44ad1473-0a2a-4e91-9559-f6f614478156",
+            "b900be9d-adcf-4eb0-a953-9b5c490c23b3",
+            "d3a45b30-c6f5-4529-9fbe-23e33828354b",
+            "a4bc06cb-fb73-4d5e-a2f3-13284c2fb660",
+            "d47f0b79-ee33-419e-b269-d3ed760ac35c",
+            "c1e0ca77-a00b-422a-8a8a-7cf442811190",
+            "7623177c-0b3b-406a-98a7-c1de05dde5d2",
+            "d9624f21-a780-4c04-89e1-765357a44929",
+            "08e2c75f-d361-49ba-9997-c5bec519174d",
+            "873b23c2-0716-4abc-b180-1716487d2896",
+            "0f49c3e0-ec58-42e4-9d87-02c6e153aa25"
+          ]
+        },
+        {
+          "path": "monthly_kills_b",
+          "prefix": "Monthly",
+          "title": "Kills",
+          "location": "-2555,41,710",
+          "count": 10,
+          "leaders": [
+            "b900be9d-adcf-4eb0-a953-9b5c490c23b3",
+            "44ad1473-0a2a-4e91-9559-f6f614478156",
+            "d3a45b30-c6f5-4529-9fbe-23e33828354b",
+            "a4bc06cb-fb73-4d5e-a2f3-13284c2fb660",
+            "d9624f21-a780-4c04-89e1-765357a44929",
+            "0f49c3e0-ec58-42e4-9d87-02c6e153aa25",
+            "15337720-2f27-4dd0-9dc8-38b83c09b104",
+            "ce411687-4411-4460-afd5-a4c26f235e50",
+            "873b23c2-0716-4abc-b180-1716487d2896",
+            "91e23e1c-ea17-4f19-b354-a3d857fb5b88",
+            "3a80a1c1-b032-4f3d-b3ec-a1f48f509cbd"
+          ]
+        },
+        {
+          "path": "weekly_kills_a",
+          "prefix": "Weekly",
+          "title": "Kills",
+          "location": "-2555,40,710",
+          "count": 10,
+          "leaders": [
+            "44ad1473-0a2a-4e91-9559-f6f614478156",
+            "d3a45b30-c6f5-4529-9fbe-23e33828354b",
+            "d9624f21-a780-4c04-89e1-765357a44929",
+            "0f49c3e0-ec58-42e4-9d87-02c6e153aa25",
+            "15337720-2f27-4dd0-9dc8-38b83c09b104",
+            "5285ebf4-9ef7-48c1-8de2-0653a63888b7",
+            "1e957dd9-fce5-483a-90d5-e2497b3f1d9e",
+            "0133567c-4029-4587-968a-1cb9165971bb",
+            "6d95a5a4-8096-48b4-a87d-48b33e750003",
+            "a08b7a27-83f4-47a6-8ad7-85962d7047f7",
+            "5f27729e-ab90-4030-97e8-2beba18b49c7"
+          ]
+        }
+      ],
+      "PROTOTYPE": [],
+      "PAINTBALL": [
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "-2554,55,715",
+          "count": 10,
+          "leaders": [
+            "31ff3435-3b4c-451a-a0a1-4d1185e17f68",
+            "37637353-e6b9-4e3e-94ec-d9bb46e42af3",
+            "7c59cb3c-dcd9-4346-b958-750d3818ddb9",
+            "f025c1c7-f55a-4ea0-b8d9-3f47d17dfe0f",
+            "5ca2314a-0fba-45ca-bf4a-4a9ff65cec79",
+            "9f16e788-457c-44fc-8c24-b90167569420",
+            "b279605a-e2b2-439b-92ab-90d0260f56e5",
+            "8bb6dd7f-b3de-43ec-af7e-1be7975e7bca",
+            "47d4bf0a-89dd-4eba-9d19-8c03baf3b980",
+            "6ce8dbb7-4784-4e3f-8dea-2f5053300240",
+            "b96f9a81-72ae-462f-8458-a7f46afb264c"
+          ]
+        },
+        {
+          "path": "kills_b",
+          "prefix": "Monthly",
+          "title": "Kills",
+          "location": "-2554,54,715",
+          "count": 10,
+          "leaders": [
+            "a29972a6-8443-4eef-a176-3084d30142ca",
+            "879114af-ef96-48d4-81fb-dabea482d64e",
+            "e01b0f81-e1c9-46e8-a698-3b3fe6183d6b",
+            "820a87d6-7600-49a5-aae7-09f5302b5d80",
+            "6b3053e9-5f40-4ca4-982b-039c8a9729bb",
+            "f34eb383-ac92-46a8-9097-343a3c8ba271",
+            "1621f0a4-3d07-4c99-8f0f-9f9b59a769ef",
+            "a759fac6-2da5-4473-9150-5b50892314d4",
+            "4716263d-e626-4c84-9730-4d173ac578a3",
+            "79071b49-370d-4cfe-b1ce-ef4132ab3734",
+            "49697d29-f2e7-40eb-886f-6d8c7d141874"
+          ]
+        },
+        {
+          "path": "kills_a",
+          "prefix": "Weekly",
+          "title": "Kills",
+          "location": "-2554,53,715",
+          "count": 10,
+          "leaders": [
+            "e01b0f81-e1c9-46e8-a698-3b3fe6183d6b",
+            "1621f0a4-3d07-4c99-8f0f-9f9b59a769ef",
+            "96271aeb-a4bd-47fb-9720-88bebb9fee97",
+            "0ade1686-0ff3-4911-bb4e-7c818a7c4f1e",
+            "f34eb383-ac92-46a8-9097-343a3c8ba271",
+            "47c850ba-f7b5-45d1-9f74-06361cf724dc",
+            "2d9e3c09-2f5b-4e1a-9edc-493c5de7f0c0",
+            "820a87d6-7600-49a5-aae7-09f5302b5d80",
+            "8f8b3a47-368f-4ea6-97cd-fd5157e212d7",
+            "bb4314a7-cbc4-4e1a-8f12-d62b21f8671e",
+            "879114af-ef96-48d4-81fb-dabea482d64e"
+          ]
+        }
+      ],
+      "SKYWARS": [
+        {
+          "path": "skywars_rating_b",
+          "prefix": "Overall",
+          "title": "Rating",
+          "location": "-2556,56,712",
+          "count": 14,
+          "leaders": []
+        },
+        {
+          "path": "wins",
+          "prefix": "Overall",
+          "title": "Wins",
+          "location": "-2556,55,712",
+          "count": 14,
+          "leaders": [
+            "2afdb69c-c007-40cd-98b9-76a7554612d9",
+            "6951ccdb-9ca7-4c8a-883b-a8d3bb81c3d2",
+            "e61044cc-c42f-439b-9ad7-817c51ae7174",
+            "12056d8b-e2b6-4621-802f-7a581f524b53",
+            "36cef0d3-f213-46dd-ba3d-9ab3e4ecd687",
+            "ed4dd257-41b6-44f2-ae35-d29c9285a704",
+            "1a07005d-2985-435c-a8db-019626b9a6b1",
+            "724c8531-3c1e-419d-88bb-d6982a88ab74",
+            "cb17db99-8d30-4363-83ae-cb25440b8534",
+            "bfe045f7-babf-4d1c-8f00-556716576c34",
+            "12ec1b38-39d3-4310-9aed-facb79776023",
+            "1e8fe224-a572-4029-a66e-bbf625e00553",
+            "22bdb2d8-ffaf-4f1a-ae89-6c168e880f10",
+            "b31e51e1-3026-4bb8-b1e1-4700724265bc",
+            "505358e4-6eed-4df3-b53e-c9e63a229388"
+          ]
+        },
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "-2556,54,712",
+          "count": 14,
+          "leaders": [
+            "2afdb69c-c007-40cd-98b9-76a7554612d9",
+            "e61044cc-c42f-439b-9ad7-817c51ae7174",
+            "36cef0d3-f213-46dd-ba3d-9ab3e4ecd687",
+            "12056d8b-e2b6-4621-802f-7a581f524b53",
+            "49a03cc8-339e-4ee8-aa9e-e8bd29943f39",
+            "22bdb2d8-ffaf-4f1a-ae89-6c168e880f10",
+            "12ec1b38-39d3-4310-9aed-facb79776023",
+            "f5842df8-a37f-4146-bc10-7165c6afc4b8",
+            "32a74e28-3781-4be3-8dee-26b09081266e",
+            "a422d048-0f23-4c0c-9d66-0abb2765bc2e",
+            "55339b43-b834-4416-977c-72ef64db1d98",
+            "cb17db99-8d30-4363-83ae-cb25440b8534",
+            "a16da1b3-beab-4e7d-a9ec-094be30dea8b",
+            "6951ccdb-9ca7-4c8a-883b-a8d3bb81c3d2",
+            "8edc188a-258c-461b-91ac-9844a44ec989"
+          ]
+        },
+        {
+          "path": "kills_monthly_2",
+          "prefix": "Monthly",
+          "title": "Kills",
+          "location": "-2556,53,712",
+          "count": 14,
+          "leaders": [
+            "20411abf-ecbc-40f1-8897-0be1ab4a0721",
+            "d92bd382-7ff7-42c7-8588-ff722ff7d7a0",
+            "605e5367-0844-4da2-994f-e741926b12fa",
+            "12056d8b-e2b6-4621-802f-7a581f524b53",
+            "5b9a07ae-f213-43cf-994d-939cc638fc5c",
+            "8deaa230-15fb-4743-a5d4-5403dbe91f89",
+            "aa8ff086-11b6-47da-aff5-c3da86e9e627",
+            "271ef6e7-42de-4033-878d-349e53171100",
+            "eee5a0b7-db17-4398-abf0-d462a2a0d910",
+            "6770f257-e003-4698-85bc-10101c867afe",
+            "35ba6351-59b5-450e-beba-15004ca6eb1c",
+            "7b6f2b24-f278-4980-afc2-f8ce0d4664b6",
+            "97433ca5-196e-4c2d-b979-1c7050b77bf0",
+            "73a2ab1a-0aae-462d-a194-2a865204f0e0",
+            "949baf29-a3e1-4c31-b639-010610c56dd0"
+          ]
+        },
+        {
+          "path": "kills_weekly_1",
+          "prefix": "Weekly",
+          "title": "Kills",
+          "location": "-2556,52,712",
+          "count": 14,
+          "leaders": [
+            "db0491fd-f34e-4acd-82c8-9377e62e0b8e",
+            "cbc0c56a-992b-49ad-87ae-6e975902ac50",
+            "5b9a07ae-f213-43cf-994d-939cc638fc5c",
+            "97433ca5-196e-4c2d-b979-1c7050b77bf0",
+            "4e040c50-489e-4267-aec0-6613a032d4fc",
+            "46cf332e-f5a1-4ec0-8883-6859cd526cbf",
+            "3ec2181e-b725-435e-a376-cff3424d79b3",
+            "36cef0d3-f213-46dd-ba3d-9ab3e4ecd687",
+            "41eed854-d865-4805-b8bd-eaf94ae35cb4",
+            "f5a1122d-9ee6-4b0a-9ddb-e6c66476f103",
+            "772edd0c-ed12-4019-95be-8e513153afd1",
+            "8dbb1449-6445-4464-8d93-2c150a76f51b",
+            "8deaa230-15fb-4743-a5d4-5403dbe91f89",
+            "313bb805-b071-45da-9b84-e5088f7a19da",
+            "6782faaa-793a-408d-82f2-ab0389824488"
+          ]
+        }
+      ],
+      "MURDER_MYSTERY": [
+        {
+          "path": "wins",
+          "prefix": "Overall",
+          "title": "Wins",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "b3b18e30-da91-45b8-bd10-a767ba5f12e9",
+            "fb71c0fc-6dba-4a18-a397-f2cce59f28d7",
+            "4aa79729-0fc2-4cc9-b81e-28cb3a1dc30c",
+            "93862e00-6994-4fa3-885b-17db8f73cc06",
+            "fb260839-1ff1-4163-a90e-3c629f216311",
+            "a3a215c8-6407-4c10-a4ca-2147db0a1691",
+            "33a2a145-eab2-4738-beef-d467ee1b8f94",
+            "c4d09c70-d006-47d4-9bb1-472350d4180a",
+            "329ab469-92f0-417c-80a1-333c737dcb22",
+            "d71d243d-869a-486c-945e-d7b054f0f49b",
+            "63ab8bdc-9d27-4083-ba25-62a37533b575",
+            "edeaa212-a0cc-4cb9-8279-ce0d601354f7",
+            "f7b61e37-0970-4dab-b57b-24c779894ca9",
+            "f30ca9a0-2dc5-4d51-9288-a1c74c970b0c",
+            "a98da66f-cc40-478c-afa3-efa8343012e6"
+          ]
+        },
+        {
+          "path": "wins_1",
+          "prefix": "Weekly",
+          "title": "Wins",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "4aa518cc-6036-4d11-88b2-60aff0bbddf6",
+            "054c39e6-02c0-4942-a549-9b26c02ea24f",
+            "eb9e5632-1398-452b-a81e-066c7dce830c",
+            "a95b5f97-68b4-497c-8242-226a9fa9367b",
+            "343645a5-642a-4753-a388-e1fa22e94308",
+            "d22016d1-94cd-4fe7-932e-bf0fba3b6d2c",
+            "77b3ba8e-6850-4396-a50b-ab9e58db0c2b",
+            "9f2fb25d-3d3d-4f6a-8965-924589f1650b",
+            "85fa5103-30e8-4c0a-959f-65b065a6ee2c",
+            "81aa5a6a-8c81-4394-9450-d8238aa34c23",
+            "6f9aa2bd-0c66-4c55-a96b-aa951f88cb55",
+            "93862e00-6994-4fa3-885b-17db8f73cc06",
+            "89658cc8-cb60-40a9-b565-08b32805b2ff",
+            "33a2a145-eab2-4738-beef-d467ee1b8f94",
+            "f36bdc4f-7dab-462b-87b6-dee2e3af8490"
+          ]
+        },
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "b3b18e30-da91-45b8-bd10-a767ba5f12e9",
+            "f7b61e37-0970-4dab-b57b-24c779894ca9",
+            "ea0aae8a-4209-4992-898c-b6fc319c0bfd",
+            "e295e12d-e912-4be2-baa7-ab49efd20a63",
+            "4aa79729-0fc2-4cc9-b81e-28cb3a1dc30c",
+            "81aa5a6a-8c81-4394-9450-d8238aa34c23",
+            "3f80b39b-9836-4274-8a23-41d1bc19e2f9",
+            "e957f9c3-19cd-4ef2-9dfd-13862b375b9e",
+            "f2a9b24a-3849-4cb1-bed1-edc478ca2a6d",
+            "329ab469-92f0-417c-80a1-333c737dcb22",
+            "a3a215c8-6407-4c10-a4ca-2147db0a1691",
+            "e46be4fc-894e-4a91-87e7-cd8eb79fe01f",
+            "c99b0cd1-6934-4dbb-843a-c14fcf797332",
+            "da7b9fdc-57d1-48e2-9b5e-dbb0bf44f0e9",
+            "93862e00-6994-4fa3-885b-17db8f73cc06"
+          ]
+        },
+        {
+          "path": "kills_1",
+          "prefix": "Weekly",
+          "title": "Kills",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "329eea92-f5f7-4580-a4b6-8ef98870c525",
+            "2bd6dfec-1641-45f3-8b24-fb6c78c749d6",
+            "f2fe23cb-74e0-4c15-9dfc-1a4f981e7424",
+            "a95b5f97-68b4-497c-8242-226a9fa9367b",
+            "4aa518cc-6036-4d11-88b2-60aff0bbddf6",
+            "e610df9c-5c73-4d9d-a509-4671f7e64df8",
+            "976d574a-414b-4870-bacb-14364cd96cc5",
+            "49198aee-7fa5-4aad-87ed-5b767d27288f",
+            "cf06016d-19e4-49fe-a2b1-fd4bae9bdbe1",
+            "7cd20cb8-b9cf-415e-a252-2fed122e85b4",
+            "6f9aa2bd-0c66-4c55-a96b-aa951f88cb55",
+            "ef98a64e-faa8-4d30-8194-2c3a457abc7a",
+            "486ba4fc-01bd-49fd-9d7c-693525c5fbcf",
+            "ba893973-ed0b-4be0-87ca-c1d98883a9be",
+            "329ab469-92f0-417c-80a1-333c737dcb22"
+          ]
+        },
+        {
+          "path": "murderer_kills",
+          "prefix": "Overall",
+          "title": "Kills as Murderer",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "b3b18e30-da91-45b8-bd10-a767ba5f12e9",
+            "4aa79729-0fc2-4cc9-b81e-28cb3a1dc30c",
+            "fb71c0fc-6dba-4a18-a397-f2cce59f28d7",
+            "f05b214c-32bf-422e-bbf3-261dd36cd461",
+            "93862e00-6994-4fa3-885b-17db8f73cc06",
+            "329ab469-92f0-417c-80a1-333c737dcb22",
+            "a3a215c8-6407-4c10-a4ca-2147db0a1691",
+            "fb260839-1ff1-4163-a90e-3c629f216311",
+            "d71d243d-869a-486c-945e-d7b054f0f49b",
+            "33a2a145-eab2-4738-beef-d467ee1b8f94",
+            "eca2b02b-d0e7-480a-a35a-5b95550498d2",
+            "a98da66f-cc40-478c-afa3-efa8343012e6",
+            "224acab6-af90-4a9d-8b9e-dff4111caee4",
+            "f30ca9a0-2dc5-4d51-9288-a1c74c970b0c",
+            "edeaa212-a0cc-4cb9-8279-ce0d601354f7"
+          ]
+        },
+        {
+          "path": "murderer_kills_1",
+          "prefix": "Weekly",
+          "title": "Kills as Murderer",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "a95b5f97-68b4-497c-8242-226a9fa9367b",
+            "4aa518cc-6036-4d11-88b2-60aff0bbddf6",
+            "486ba4fc-01bd-49fd-9d7c-693525c5fbcf",
+            "7cd20cb8-b9cf-415e-a252-2fed122e85b4",
+            "6f9aa2bd-0c66-4c55-a96b-aa951f88cb55",
+            "33a2a145-eab2-4738-beef-d467ee1b8f94",
+            "329ab469-92f0-417c-80a1-333c737dcb22",
+            "9d0be08b-ddc6-4c6d-a5ef-efc33175b953",
+            "f7d5e9fb-0f0f-4eac-954f-c16a99b860f6",
+            "d22016d1-94cd-4fe7-932e-bf0fba3b6d2c",
+            "29f3562b-9d33-4819-8af3-7939f9331a4e",
+            "dfcc86c4-f032-4fd5-a327-809dddb3366f",
+            "a6ad1b36-15fa-444e-824e-2230cf29342f",
+            "905362e4-cebb-468b-8c3b-2b68bc6dabd4",
+            "841beff2-82f0-4277-8685-e193196f7824"
+          ]
+        }
+      ],
+      "SUPER_SMASH": [
+        {
+          "path": "smash_level_total",
+          "prefix": "Overall",
+          "title": "Smash Level",
+          "location": "814,39,32",
+          "count": 14,
+          "leaders": [
+            "ed1296e1-54f7-49bd-beea-af405b891f31",
+            "bef402f4-1b0e-41d1-beb3-0f39aaa80661",
+            "bec9029b-efb3-4c85-925d-f2e97640cf92",
+            "be52d218-ec9a-4d99-bce8-a2ed52cdf8c9",
+            "b0d2bfcb-dc60-44aa-80f2-64518e02a810",
+            "48633e98-c618-42b1-a85f-78775ce3f4a8",
+            "43c6f679-078c-404e-b57b-1ee1bce10c03",
+            "308c1736-786b-45da-8206-21f4f5e3ac8e",
+            "2de27887-dbb9-4154-8a36-029d6de5f468",
+            "22e0b8dc-8b09-46b0-80c8-db87e2664770",
+            "22060ff2-8f07-476d-ba5d-37efd4b6b9d3",
+            "176ebb3a-0288-4f91-9b2b-842fee80e33c",
+            "b7c9e836-ddd1-435d-bf52-8a6effa4c735",
+            "7c6faa27-764d-4845-b3e2-06730ee92aea",
+            "4658b28f-2c03-4429-9631-3a3cac38657f"
+          ]
+        },
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "814,38,32",
+          "count": 14,
+          "leaders": [
+            "2de27887-dbb9-4154-8a36-029d6de5f468",
+            "48633e98-c618-42b1-a85f-78775ce3f4a8",
+            "22060ff2-8f07-476d-ba5d-37efd4b6b9d3",
+            "176ebb3a-0288-4f91-9b2b-842fee80e33c",
+            "308c1736-786b-45da-8206-21f4f5e3ac8e",
+            "bec9029b-efb3-4c85-925d-f2e97640cf92",
+            "22e0b8dc-8b09-46b0-80c8-db87e2664770",
+            "a9c14e04-4c5a-4bf9-8fa1-bc1302fc0186",
+            "b0d2bfcb-dc60-44aa-80f2-64518e02a810",
+            "43c6f679-078c-404e-b57b-1ee1bce10c03",
+            "ed1296e1-54f7-49bd-beea-af405b891f31",
+            "578c1396-af93-4d40-8024-bb8683ae2dc5",
+            "b7c9e836-ddd1-435d-bf52-8a6effa4c735",
+            "bef402f4-1b0e-41d1-beb3-0f39aaa80661",
+            "144be152-8e35-43cd-b5c2-16be7e032bce"
+          ]
+        },
+        {
+          "path": "kills_b",
+          "prefix": "Monthly",
+          "title": "Kills",
+          "location": "814,37,32",
+          "count": 14,
+          "leaders": [
+            "2e1884f6-9c29-4bd5-89e6-d7709b100298",
+            "ef23eebb-88ba-4f0f-978f-3161cfde2ba8",
+            "ca044c76-85eb-488b-9bfc-ba2b0e93c477",
+            "aa365d91-a5ac-4f85-a7fa-b8f4919d5c93",
+            "b29f82c9-f159-4c59-821e-6fa8471ca9b5",
+            "22e0b8dc-8b09-46b0-80c8-db87e2664770",
+            "b980278b-e5c5-4d09-ad2a-5cd67141f233",
+            "0303d80a-e2e5-47eb-bf03-458ebf7ea2dc",
+            "d0cdf17b-f8bd-4195-a8ab-c366bd5eb7c3",
+            "5cfeef52-b650-4ed1-bcf4-55f000525771",
+            "8d7276b8-3310-4e4b-b6da-b6865e2c3d15",
+            "3c6ede15-bf96-4a87-bd7e-47132649dc79",
+            "3d06074f-73df-476b-b79c-c1f320f279ea",
+            "7a1e3772-650b-40f3-a1c1-8869b7759bd6",
+            "02ec658d-1d2f-4fd6-82b7-f90765b7e374"
+          ]
+        },
+        {
+          "path": "kills_a",
+          "prefix": "Weekly",
+          "title": "Kills",
+          "location": "814,36,32",
+          "count": 14,
+          "leaders": [
+            "2e1884f6-9c29-4bd5-89e6-d7709b100298",
+            "02ec658d-1d2f-4fd6-82b7-f90765b7e374",
+            "f7a452ba-e287-4e8f-b98b-5b2a20cedbf9",
+            "7c922411-666e-4ec9-8da9-dd077b63feb2",
+            "c4fdded1-b3fa-47f1-8485-3001ab221893",
+            "7b602a70-9047-475a-a52d-43505a67a94f",
+            "ca044c76-85eb-488b-9bfc-ba2b0e93c477",
+            "1651ce1c-45a6-4703-9a0b-bce4de448081",
+            "266b09b9-79a3-4590-9824-aa9d31ffe8ba",
+            "ad988df2-5a27-4cf5-92b6-6c9562834230",
+            "04a00edf-2ffa-4067-b924-ee4595e7c21b",
+            "03c4d913-540f-401c-a979-76b0539ed0b0",
+            "d68e8390-3ab8-4163-b127-f755b7adf145",
+            "69f950c4-424d-4616-b2dc-22d8d583598b",
+            "15e54ce4-8a59-41ea-b62d-83ef26df8809"
+          ]
+        }
+      ],
+      "DUELS": [
+        {
+          "path": "wins_weekly_a",
+          "prefix": "Weekly",
+          "title": "Wins",
+          "location": "0,0,0",
+          "count": 10,
+          "leaders": [
+            "9133bad9-6c1d-4bee-8c5b-42e1d12f20b4",
+            "1e1df103-4005-42e8-9135-2e26c6c6f5ec",
+            "ca72fad8-23d9-4921-a77f-a518ca2d4fcd",
+            "c409a02d-02eb-4b1e-b63e-e642862d310c",
+            "7f8e6bc5-637a-4f53-9f74-8a110be46689",
+            "4add7f98-c695-4378-9a0b-796e4d9e669e",
+            "b33a069a-d1ad-4820-8f80-eac5ce1e5de9",
+            "024c96cf-82c4-4caf-b396-5cd328a09373",
+            "c7942fdf-8fe9-4c11-9fac-5b0785be2552",
+            "d92fd303-e1f7-4ef9-9b30-39026e8e082e",
+            "79588764-199b-443b-a406-70528658f971"
+          ]
+        },
+        {
+          "path": "wins_monthly_b",
+          "prefix": "Monthly",
+          "title": "Wins",
+          "location": "0,0,0",
+          "count": 10,
+          "leaders": [
+            "54d7467e-5acd-48c4-9bf8-2c6f8a492f2f",
+            "fcec891c-13c9-4c96-94cf-91d757a50234",
+            "400f42b6-b7fd-410c-b719-d24b427fbad1",
+            "fd0ae4e4-cb30-4c40-a315-073811533a1c",
+            "5a690439-5dd6-4d52-8fe9-8f201c73214e",
+            "437ec2f1-ca0b-406f-84ad-26c1d82d197a",
+            "be92cf07-dbd4-498f-a047-f97dd0bcf7b3",
+            "32d6e846-4f98-4465-9270-f77259d501f6",
+            "a9125188-1747-4f71-8893-aa5e6e44f52b",
+            "148cf325-e378-487d-82e9-f040d42cdf0b",
+            "a16aa934-dc5c-4b84-8166-18633f9f0395"
+          ]
+        }
+      ],
+      "SPEED_UHC": [
+        {
+          "path": "salt",
+          "prefix": "Total",
+          "title": "Salt",
+          "location": "-2551,58,712",
+          "count": 16,
+          "leaders": [
+            "3dd44efa-1b57-4c68-ad65-b9601ce791ff",
+            "5409757b-8734-4c03-94b1-0bf966a2d594",
+            "06a87689-a1c9-476c-82d7-127f25769e33",
+            "6d04f5ca-de1f-449c-9d24-c7abd986cc64",
+            "9914ea72-d652-40e7-83a7-24ecdb3de53c",
+            "3a38ad8d-72ba-456c-be43-f42e6dc36794",
+            "8a4a5046-009a-4a23-acb5-8841a8e49356",
+            "f5a1122d-9ee6-4b0a-9ddb-e6c66476f103",
+            "aa1eecd7-abdf-4d80-8e32-e00d6f749c6d",
+            "2b6730f2-8210-470f-bc37-1f14d63cb862",
+            "83f44cd9-ca9d-4712-a6bf-9e618574f0de",
+            "12cd0c53-b9aa-48e0-a504-def80ce00201",
+            "114e142d-36d1-4b7d-9b21-b20e9510398c",
+            "a336071c-f30d-44a8-aa9c-0e3e681a6678",
+            "690f1b49-2af7-43ca-bdba-4b14ff16fda0",
+            "6d84e8ed-95b3-4520-9522-1594b9e448fe",
+            "af193f3e-a821-4848-9129-dc9d32f8dc67"
+          ]
+        },
+        {
+          "path": "kills_normal",
+          "prefix": "Normal",
+          "title": "Kills",
+          "location": "-2551,57,712",
+          "count": 16,
+          "leaders": [
+            "3dd44efa-1b57-4c68-ad65-b9601ce791ff",
+            "b3161a77-90ad-43e6-97fd-a9e298ffb699",
+            "2c8e1e5d-1fbd-466f-b677-0fdd65359cd5",
+            "86de061e-00d2-4588-8c98-016283a78e31",
+            "9914ea72-d652-40e7-83a7-24ecdb3de53c",
+            "563675fe-f740-475a-aa74-1c561404339a",
+            "6d84e8ed-95b3-4520-9522-1594b9e448fe",
+            "82ade374-0758-4aa9-9548-f107744747ff",
+            "4e47c9cb-226d-408a-a08f-c48d701accf5",
+            "8eb3d50b-dbb3-4125-a739-1743ae32e1b3",
+            "d68cfb55-5257-4263-a8fa-37012b3bd38d",
+            "116d04df-274c-41b7-8c8a-96e283732595",
+            "171faf6b-54c0-45d8-84ba-95f27049984f",
+            "5d86202f-c613-48c7-bde5-62414e73e876",
+            "caf4b789-995c-4ddd-b401-67d1287e08e3",
+            "1485b2b5-8ad5-4eac-a304-a90a18746196",
+            "f5a1122d-9ee6-4b0a-9ddb-e6c66476f103"
+          ]
+        },
+        {
+          "path": "wins_normal",
+          "prefix": "Normal",
+          "title": "Wins",
+          "location": "-2551,56,712",
+          "count": 16,
+          "leaders": [
+            "3dd44efa-1b57-4c68-ad65-b9601ce791ff",
+            "b3161a77-90ad-43e6-97fd-a9e298ffb699",
+            "2c8e1e5d-1fbd-466f-b677-0fdd65359cd5",
+            "86de061e-00d2-4588-8c98-016283a78e31",
+            "9914ea72-d652-40e7-83a7-24ecdb3de53c",
+            "6d84e8ed-95b3-4520-9522-1594b9e448fe",
+            "4e47c9cb-226d-408a-a08f-c48d701accf5",
+            "8eb3d50b-dbb3-4125-a739-1743ae32e1b3",
+            "116d04df-274c-41b7-8c8a-96e283732595",
+            "1485b2b5-8ad5-4eac-a304-a90a18746196",
+            "5d86202f-c613-48c7-bde5-62414e73e876",
+            "f5a1122d-9ee6-4b0a-9ddb-e6c66476f103",
+            "d68cfb55-5257-4263-a8fa-37012b3bd38d",
+            "171faf6b-54c0-45d8-84ba-95f27049984f",
+            "88c0e6ff-872a-4a94-8385-36b40423dc41",
+            "cdd31f32-0519-46e0-a52c-c286f878fa50",
+            "caf4b789-995c-4ddd-b401-67d1287e08e3"
+          ]
+        },
+        {
+          "path": "kills_insane",
+          "prefix": "Insane",
+          "title": "Kills",
+          "location": "-2551,55,712",
+          "count": 16,
+          "leaders": [
+            "3dd44efa-1b57-4c68-ad65-b9601ce791ff",
+            "f5a1122d-9ee6-4b0a-9ddb-e6c66476f103",
+            "6d04f5ca-de1f-449c-9d24-c7abd986cc64",
+            "83f44cd9-ca9d-4712-a6bf-9e618574f0de",
+            "151fe040-1c30-4db8-8eba-d7da9ce939f4",
+            "ff747ed0-4120-4036-bb7d-d22ca9ea45d4",
+            "114e142d-36d1-4b7d-9b21-b20e9510398c",
+            "8eb3d50b-dbb3-4125-a739-1743ae32e1b3",
+            "27a214e4-b264-4bce-a2f5-584ea2b994a3",
+            "2b6730f2-8210-470f-bc37-1f14d63cb862",
+            "cfd86d72-38c7-45c2-b246-d636cf005bb2",
+            "1f3f44aa-22a6-4346-9434-90beabb55e73",
+            "51c3c092-8a90-4580-9a8a-206fe510519b",
+            "6745c6e7-0c84-48a5-b328-c17c5a7cbd06",
+            "54d0e2b3-5bb3-4531-b157-2e175095736d",
+            "ba85cc9d-309c-4131-8e0c-0b649e8c563e",
+            "06da95e1-5e9a-47ef-9d21-a7e75571f42c"
+          ]
+        },
+        {
+          "path": "wins_insane",
+          "prefix": "Insane",
+          "title": "Wins",
+          "location": "-2551,54,712",
+          "count": 16,
+          "leaders": [
+            "3dd44efa-1b57-4c68-ad65-b9601ce791ff",
+            "f5a1122d-9ee6-4b0a-9ddb-e6c66476f103",
+            "6d04f5ca-de1f-449c-9d24-c7abd986cc64",
+            "83f44cd9-ca9d-4712-a6bf-9e618574f0de",
+            "114e142d-36d1-4b7d-9b21-b20e9510398c",
+            "8eb3d50b-dbb3-4125-a739-1743ae32e1b3",
+            "27a214e4-b264-4bce-a2f5-584ea2b994a3",
+            "2b6730f2-8210-470f-bc37-1f14d63cb862",
+            "cfd86d72-38c7-45c2-b246-d636cf005bb2",
+            "151fe040-1c30-4db8-8eba-d7da9ce939f4",
+            "1f3f44aa-22a6-4346-9434-90beabb55e73",
+            "ff747ed0-4120-4036-bb7d-d22ca9ea45d4",
+            "af193f3e-a821-4848-9129-dc9d32f8dc67",
+            "6745c6e7-0c84-48a5-b328-c17c5a7cbd06",
+            "51c3c092-8a90-4580-9a8a-206fe510519b",
+            "5409757b-8734-4c03-94b1-0bf966a2d594",
+            "aa1eecd7-abdf-4d80-8e32-e00d6f749c6d"
+          ]
+        }
+      ],
+      "TNTGAMES": [
+        {
+          "path": "wins_tntrun",
+          "prefix": "Overall",
+          "title": "TNT Run Wins",
+          "location": "-2554,57,715",
+          "count": 10,
+          "leaders": [
+            "aed8deec-8c35-4187-8a79-ba72ab29076d",
+            "b379f448-0f28-4eb8-af7b-a8d1ead7b80f",
+            "141e5144-6940-46ea-a7e5-36ed70cc1595",
+            "f9fe4ed4-1242-460d-b7db-d7bfd054e082",
+            "3618ec16-e596-420d-9ef4-bbc54dc4489c",
+            "a8b8fe8c-834c-4f83-b6e8-e7039dd40c63",
+            "21fca949-bcc9-421b-9b21-329ece5c4fbd",
+            "2a1afa5b-b73d-42bc-abb4-a2e69f402c20",
+            "8f57735d-d739-4751-a29f-838f7da9130a",
+            "15d11660-0de0-4b65-99fa-9b16d3fa749d",
+            "f33bcc88-3074-4247-84cc-b6126eb65264"
+          ]
+        },
+        {
+          "path": "wins_pvprun",
+          "prefix": "Overall",
+          "title": "PVP Run Wins",
+          "location": "-2554,56,715",
+          "count": 10,
+          "leaders": [
+            "9e7d2bdb-3dc6-448f-9bb2-67cb76c422ac",
+            "2acdd559-e426-4028-94fe-7077d64da2a9",
+            "0eb1125c-9f75-4fba-87c2-116f67b7a209",
+            "2ccb704c-71b9-42a6-b7a2-695e6d53711e",
+            "852834c4-ce22-4663-82a5-23314773f104",
+            "141e5144-6940-46ea-a7e5-36ed70cc1595",
+            "f03733d2-2a66-460c-8a80-bbf872a1e873",
+            "a0f86d07-e71d-4a09-9f2d-1f301ec5d9b1",
+            "fc096c7c-43bc-4cf3-9682-664f2ba1ab5a",
+            "db365262-927d-48f5-bf54-cdeddcf4dae6",
+            "f2399b32-7868-48a0-ba28-81cacb3a44da"
+          ]
+        },
+        {
+          "path": "wins_capture",
+          "prefix": "Overall",
+          "title": "Wizards Wins",
+          "location": "-2554,55,715",
+          "count": 10,
+          "leaders": [
+            "3c57402d-3fd9-4ba9-abc0-e239ac13e2ba",
+            "76dda034-88fb-4e59-8e40-126b1a7a140d",
+            "0b1c1870-5cf5-493c-8f91-0f4581054f26",
+            "54199f5f-a4cc-4d6d-bbfd-79d448e6102a",
+            "3863e1c3-3eb3-4215-9e45-a17f16c0fb4c",
+            "2b5287e8-e1c0-4c87-8852-c6877ad6fe2b",
+            "6ed876e3-f881-4fc8-a13e-05405581c46b",
+            "e43ea558-8d42-4129-a2c5-9bd2964c3b05",
+            "a5146aa3-2f3a-4cb6-9ddb-9e8df891f0cd",
+            "d5f1e8d9-3527-410b-93db-3f293091c2d4",
+            "17c7418c-12ce-43a5-add4-2f7f480e283b"
+          ]
+        },
+        {
+          "path": "wins_tntag",
+          "prefix": "Overall",
+          "title": "TNT Tag Wins",
+          "location": "-2554,54,715",
+          "count": 10,
+          "leaders": [
+            "16495069-13bc-4c16-869b-c49965786629",
+            "386c874e-7b1f-4951-8e8c-293fb2cce01b",
+            "6a9ef19c-d011-4811-9ea7-9a540044d589",
+            "4497e0d3-3500-4183-9052-3d52d1d42e51",
+            "11b38cb0-3a7c-4e01-bfd1-3dc11d5529a8",
+            "befed27f-0c7b-4fa3-99a8-858b7d7e54e6",
+            "e18d65cf-3744-4670-9bc4-a5c19f99df14",
+            "059a0b3e-992e-40ec-bf67-f3a687dbc6a9",
+            "72898425-4f6f-4c84-9679-0718786d05cf",
+            "5b05d1e7-76f4-4eb0-a759-9e4d3131fe85",
+            "67cd4b6b-cba6-456e-90a0-abf2bc96a383"
+          ]
+        },
+        {
+          "path": "wins_bowspleef",
+          "prefix": "Overall",
+          "title": "Spleef Wins",
+          "location": "-2554,53,715",
+          "count": 10,
+          "leaders": [
+            "83e8193a-7c87-49a4-87aa-e40538f10f79",
+            "79aa2610-3d32-44a4-ab18-946cee236575",
+            "4123f45b-46b1-4cf2-a738-084ec0b51c03",
+            "926c3cd2-f4d7-4f98-8604-c646a16f68c9",
+            "facbc256-8835-4367-b352-1d32a1ef8af4",
+            "7d25b298-02ff-44cb-8c34-bd3d05dfce12",
+            "f07e748a-f515-4188-ac76-993b9067fdb3",
+            "d5381413-d704-4fad-be16-0045e105f6ca",
+            "4fd79c30-58ea-4992-aef3-cd1b60025841",
+            "7a00e1d7-8805-4ae9-88a3-a1639ae4d4b6",
+            "8b4233b6-0139-4d01-a9a5-e666800c5b1b"
+          ]
+        }
+      ],
+      "BEDWARS": [
+        {
+          "path": "bedwars_level",
+          "prefix": "Current",
+          "title": "Level",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "fe15273a-c660-4a6f-95da-ee3f9458eeba",
+            "383a081f-6dc0-4ac0-bb95-1f8d50c3e532",
+            "317517f7-470d-456a-a6ee-ea037425db33",
+            "4430ab4e-56ef-4eca-987e-cdff56697930",
+            "ae0fda0d-7bb3-4532-841c-903190d7fc65",
+            "37bdf671-c36e-44f3-b82a-5e02fea3519d",
+            "3060b774-2c00-4e73-b71c-c694610a1de2",
+            "15305e0e-7d11-490f-8286-7752dbf0be3b",
+            "0102e3f2-cd20-4d7e-bd82-023552a3c1de",
+            "9491cd6c-18a6-47e3-aea9-0178447844b0",
+            "eff10c1c-4560-44cd-af6f-198921723d4f",
+            "24c182c6-716b-47c6-8f60-a1be9045c449",
+            "eda7a720-826c-48ae-a069-5cda307858bc",
+            "3b76b69a-e513-4296-a730-ed49171ad6f8",
+            "3a5321ea-3360-4353-9f84-fa018c5de50b"
+          ]
+        },
+        {
+          "path": "wins",
+          "prefix": "Overall",
+          "title": "Wins",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "fe15273a-c660-4a6f-95da-ee3f9458eeba",
+            "50c68641-558d-48b0-b36f-f89e94069acf",
+            "383a081f-6dc0-4ac0-bb95-1f8d50c3e532",
+            "9491cd6c-18a6-47e3-aea9-0178447844b0",
+            "4430ab4e-56ef-4eca-987e-cdff56697930",
+            "ae0fda0d-7bb3-4532-841c-903190d7fc65",
+            "317517f7-470d-456a-a6ee-ea037425db33",
+            "ed6dd177-717a-43b3-b17b-f02031cfac4e",
+            "f54f3af5-572f-41e6-914d-dd941971d129",
+            "24c182c6-716b-47c6-8f60-a1be9045c449",
+            "c5abd843-7734-434d-ac0c-7ec9a2e50271",
+            "15305e0e-7d11-490f-8286-7752dbf0be3b",
+            "92219079-becf-440c-a6b3-60cf5ce9d38e",
+            "38079970-a629-491e-ba81-f58e85c5c997",
+            "d33671f7-baf1-4e95-a027-377ae6ed5efb"
+          ]
+        },
+        {
+          "path": "wins_1",
+          "prefix": "Weekly",
+          "title": "Wins",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "5355ae21-0426-4160-809e-d4fa84d71aea",
+            "e4e01ace-5f84-4e14-a887-787b20ddc12f",
+            "5142cb33-d0c3-42e0-9e75-33376947434c",
+            "1dddfc8a-5460-4b39-b84d-3ec4f2a1dcbe",
+            "f54f3af5-572f-41e6-914d-dd941971d129",
+            "636ce984-5410-42b5-b99c-93689122b753",
+            "0641b0db-9a45-4b18-95d4-b991a26acf56",
+            "c75e0eb6-54ec-471d-b9e1-fac0a5210eba",
+            "658c4326-20f7-429a-a6ba-3eddfdda4ae9",
+            "2683e92f-3dc6-4278-8a4a-adadac5a2af9",
+            "f2e9a1f8-8cfc-49cf-bf82-e40a33119386",
+            "1e8e779f-822c-4fd2-8341-831015ff37f9",
+            "dad623f1-4595-4aa9-9005-5cbd0422cbf6",
+            "b25598cc-257e-4d01-8520-db65bf192512",
+            "3f6525b9-3a58-49c8-95b0-d069cfa8209a"
+          ]
+        },
+        {
+          "path": "final_kills",
+          "prefix": "Overall",
+          "title": "Final Kills",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "fe15273a-c660-4a6f-95da-ee3f9458eeba",
+            "317517f7-470d-456a-a6ee-ea037425db33",
+            "24c182c6-716b-47c6-8f60-a1be9045c449",
+            "3a5321ea-3360-4353-9f84-fa018c5de50b",
+            "eff10c1c-4560-44cd-af6f-198921723d4f",
+            "38079970-a629-491e-ba81-f58e85c5c997",
+            "bc6cecd4-020c-4e51-910c-b383a815b13d",
+            "d33671f7-baf1-4e95-a027-377ae6ed5efb",
+            "50c68641-558d-48b0-b36f-f89e94069acf",
+            "f71d1bf1-4863-4e4f-8324-71e8293fdd39",
+            "beff5f61-e517-471f-85b5-f686eb0fca30",
+            "c5abd843-7734-434d-ac0c-7ec9a2e50271",
+            "15305e0e-7d11-490f-8286-7752dbf0be3b",
+            "d245a6e2-349d-405a-b801-48f06d39c9a9",
+            "c985a024-022e-41fb-9c31-e5ed1b094e44"
+          ]
+        },
+        {
+          "path": "final_kills_1",
+          "prefix": "Weekly",
+          "title": "Final Kills",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "5c6e8978-33d0-4d9e-b612-6e55722be9b0",
+            "d245a6e2-349d-405a-b801-48f06d39c9a9",
+            "c43536e0-2449-4fc1-b405-22c1d5317dad",
+            "659b8446-f808-43a3-958c-59d54ca631dc",
+            "209fc6f4-a71b-43fe-9c8d-77b4e36c40ab",
+            "9470c4bc-aa3c-40f7-8490-fae2ffe521b1",
+            "4c166719-db54-4402-a7aa-6914d3f63a22",
+            "a0889436-aaf1-4981-ba8e-63c4ef656d14",
+            "32817b2a-fa85-412f-aca0-38c29d231363",
+            "d5ff8fd4-1138-403e-88cf-c34cd8cfd4c5",
+            "d8036982-077b-4986-a5b2-f477bcbb80ba",
+            "e4e01ace-5f84-4e14-a887-787b20ddc12f",
+            "bf3655fa-f5d2-4786-b77a-cb08fc8075cb",
+            "2b554fae-185d-4b67-8a2e-887c4358a7bb",
+            "3d43aa73-a2ef-498c-90a5-5567742c53db"
+          ]
+        }
+      ],
+      "GINGERBREAD": [
+        {
+          "path": "gold_trophy",
+          "prefix": "Overall",
+          "title": "Gold Trophies",
+          "location": "-114,34,-8",
+          "count": 10,
+          "leaders": [
+            "cdea3387-7a37-413d-a44e-365acc9f7a50",
+            "617c7e30-149b-408f-b1d4-5d0ada9b8d1a",
+            "dd67feb4-219a-47b2-8ff5-89fed5a26b68",
+            "944e11e3-ab42-4b73-b60c-3ff456aa3c5f",
+            "194d9db6-1afc-4421-8abb-3bd315d8e1ca",
+            "4675184e-05a9-4d09-ad61-6cb6cf0687ec",
+            "3863e1c3-3eb3-4215-9e45-a17f16c0fb4c",
+            "b50b32a2-b4fa-4e79-9317-9cf9b34c2a6f",
+            "1363cfe7-57a0-45cc-9297-cb1bb0312790",
+            "3ffc6598-2a90-4193-a8e1-7f241ddef6cd",
+            "52a4b0c3-b758-422e-8956-39ae6512799f"
+          ]
+        },
+        {
+          "path": "gold_2",
+          "prefix": "Monthly",
+          "title": "Gold Trophies",
+          "location": "-114,33,-8",
+          "count": 10,
+          "leaders": [
+            "a15d2ae2-a16a-4415-b9c4-8bf8470f9d49",
+            "cdea3387-7a37-413d-a44e-365acc9f7a50",
+            "6b93a19c-9bf2-4fa7-832b-7e26783366af",
+            "cc3e837e-3885-4361-a99a-85b32942ae00",
+            "4675184e-05a9-4d09-ad61-6cb6cf0687ec",
+            "bdacfed2-3784-4420-9f1a-aa61c0195960",
+            "dac850ed-2e27-4799-acff-acead974f4f8",
+            "9cc79cf9-a6d9-4368-a67a-f864165d1404",
+            "1922fc46-8d50-4c2e-80f1-eb3f64d2ec80",
+            "4da697f0-47af-43c6-a205-6ef52698ab4c",
+            "f68ca214-442b-4e8c-aa6c-613a997e31a5"
+          ]
+        },
+        {
+          "path": "gold_1",
+          "prefix": "Weekly",
+          "title": "Gold Trophies",
+          "location": "-114,32,-8",
+          "count": 10,
+          "leaders": [
+            "cdea3387-7a37-413d-a44e-365acc9f7a50",
+            "6b93a19c-9bf2-4fa7-832b-7e26783366af",
+            "043aca92-3f83-41ff-ace0-242833330990",
+            "99fffa3a-bd63-4b86-8398-65048f50cd07",
+            "cc3e837e-3885-4361-a99a-85b32942ae00",
+            "53c51b46-07e6-49d0-b818-26bc2d64df82",
+            "ae51e719-525f-4379-8649-019a4b05b536",
+            "37de73cc-39b9-4320-9442-4912687c8c4a",
+            "f6b38734-56c3-49cf-b1a7-449e682aede0",
+            "f618941c-6831-4de7-935f-dc446e3580a8",
+            "b70ec546-0576-42cf-8c71-2878d95edfe1"
+          ]
+        },
+        {
+          "path": "laps_completed",
+          "prefix": "Overall",
+          "title": "Laps Completed",
+          "location": "-114,31,-8",
+          "count": 10,
+          "leaders": [
+            "cdea3387-7a37-413d-a44e-365acc9f7a50",
+            "617c7e30-149b-408f-b1d4-5d0ada9b8d1a",
+            "dd67feb4-219a-47b2-8ff5-89fed5a26b68",
+            "3863e1c3-3eb3-4215-9e45-a17f16c0fb4c",
+            "944e11e3-ab42-4b73-b60c-3ff456aa3c5f",
+            "4675184e-05a9-4d09-ad61-6cb6cf0687ec",
+            "52a4b0c3-b758-422e-8956-39ae6512799f",
+            "d1556ca1-9015-48d4-9d6b-12c69c7c4a67",
+            "b50b32a2-b4fa-4e79-9317-9cf9b34c2a6f",
+            "1363cfe7-57a0-45cc-9297-cb1bb0312790",
+            "3ffc6598-2a90-4193-a8e1-7f241ddef6cd"
+          ]
+        },
+        {
+          "path": "GingerBread_tkr_points__6_2019",
+          "prefix": "Grand Prix",
+          "title": "Points",
+          "location": "-114,35,-8",
+          "count": 10,
+          "leaders": [
+            "cdea3387-7a37-413d-a44e-365acc9f7a50",
+            "4da697f0-47af-43c6-a205-6ef52698ab4c",
+            "82afdc81-8a9f-4a2d-b058-17b1f7d80148",
+            "34175f3e-4fb5-478d-a61f-9d0af5fc37cb",
+            "4675184e-05a9-4d09-ad61-6cb6cf0687ec",
+            "58e94436-0548-4a08-bd23-3a9ac0601805",
+            "71d0d34e-20e6-4b22-8cfb-9e1a8005613b",
+            "6627e6b7-8e76-4c25-af2f-e9158208cf45",
+            "7c42992e-bbc2-49cb-ac73-9318db3caa92",
+            "c3fcb001-c6b5-4a76-baf4-1dfcf729476c",
+            "efa70b19-74d2-4807-8002-f38a0f0ffc64"
+          ]
+        }
+      ],
+      "BUILD_BATTLE": [
+        {
+          "path": "score",
+          "prefix": "Lifetime",
+          "title": "Score",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "71842575-8b61-4639-b28f-b12157dabcf5",
+            "f9beae65-c0fc-46ee-8691-99589d1e28a3",
+            "ce38dc5e-8b53-4b77-88de-cd989bea71f6",
+            "6dbbd744-f8bb-4a59-b783-7d8c29ac48e6",
+            "dad03093-56e5-4280-9aba-fed99449873f",
+            "4458076f-7222-4619-a270-8b7e6974eced",
+            "15a03072-213f-48ec-a10a-ceb246d4ba3e",
+            "88c97569-890f-4868-8f24-d5409dc6d56f",
+            "16c6c1eb-1641-40c3-81fe-5c25513e783b",
+            "5b4c4dfd-2221-4918-aed1-3513f3cff0a7",
+            "b9f8fc5b-bca9-44dc-b4a6-9a2673b9d956",
+            "eae10931-c97b-4c1d-af5e-d57845107d7f",
+            "d5f8632f-360e-4965-a5e0-c5b6c122c92f",
+            "bbc615f9-3d2b-4e3f-9d41-4a60804b196b",
+            "12580d0e-5781-4355-9b1b-3ae19f398bb7"
+          ]
+        },
+        {
+          "path": "coins",
+          "prefix": "Lifetime",
+          "title": "Coins",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "f9beae65-c0fc-46ee-8691-99589d1e28a3",
+            "3efd540b-06ae-4141-8616-72f6510c99e8",
+            "7ab7ff47-2e13-4b69-82b7-fcaffe994360",
+            "bfcc0ed5-4776-4a93-8ac3-922c8aebc3d2",
+            "5ff48486-c0a7-426b-9637-170ea3f327f4",
+            "88c97569-890f-4868-8f24-d5409dc6d56f",
+            "71842575-8b61-4639-b28f-b12157dabcf5",
+            "6dbbd744-f8bb-4a59-b783-7d8c29ac48e6",
+            "5b4c4dfd-2221-4918-aed1-3513f3cff0a7",
+            "1a2a569e-fa19-4c9e-be26-6150aaf9e615",
+            "eae10931-c97b-4c1d-af5e-d57845107d7f",
+            "f2595b62-71d0-473f-bcd1-213f4788ae76",
+            "26bb4d6a-deab-43e4-9b6a-185433d56557",
+            "66923dc4-3af6-44bb-a499-071739732284",
+            "53c51b46-07e6-49d0-b818-26bc2d64df82"
+          ]
+        },
+        {
+          "path": "wins",
+          "prefix": "Lifetime",
+          "title": "Wins",
+          "location": "0,0,0",
+          "count": 14,
+          "leaders": [
+            "71842575-8b61-4639-b28f-b12157dabcf5",
+            "6dbbd744-f8bb-4a59-b783-7d8c29ac48e6",
+            "d5f8632f-360e-4965-a5e0-c5b6c122c92f",
+            "bbc615f9-3d2b-4e3f-9d41-4a60804b196b",
+            "ce38dc5e-8b53-4b77-88de-cd989bea71f6",
+            "f9beae65-c0fc-46ee-8691-99589d1e28a3",
+            "dad03093-56e5-4280-9aba-fed99449873f",
+            "f2595b62-71d0-473f-bcd1-213f4788ae76",
+            "5b4c4dfd-2221-4918-aed1-3513f3cff0a7",
+            "eae10931-c97b-4c1d-af5e-d57845107d7f",
+            "88c97569-890f-4868-8f24-d5409dc6d56f",
+            "1a706d6a-3a84-4ac1-a5ec-d61305d39828",
+            "12580d0e-5781-4355-9b1b-3ae19f398bb7",
+            "15a03072-213f-48ec-a10a-ceb246d4ba3e",
+            "4458076f-7222-4619-a270-8b7e6974eced"
+          ]
+        }
+      ],
+      "ARCADE": [
+        {
+          "path": "coins",
+          "prefix": "Current",
+          "title": "Coins",
+          "location": "-2554,55,715",
+          "count": 10,
+          "leaders": [
+            "125b094d-ab5b-4f72-8d06-587d09789602",
+            "683599f6-258a-4e14-825c-c20690b2fbe2",
+            "6211503e-3c8a-461f-ba0c-d17cd7975d1a",
+            "0aa12772-03fc-4c67-854f-eda7249b2c07",
+            "66923dc4-3af6-44bb-a499-071739732284",
+            "1c319423-2a30-4d8f-9cec-5b73324d523e",
+            "70742357-bc3f-46b1-8c54-7d8b112a5c1e",
+            "c3c9cfa7-b024-402d-b02c-5d774ecbdc67",
+            "464277b6-533c-4855-87fe-652d0c1a006f",
+            "4bf1106a-ec39-4859-8167-be84924abc1d",
+            "1b0c0bdb-de98-4bb9-b599-e14899d4cdd2"
+          ]
+        },
+        {
+          "path": "weekly_coins_a",
+          "prefix": "Weekly",
+          "title": "Coins",
+          "location": "-2554,53,715",
+          "count": 10,
+          "leaders": [
+            "683599f6-258a-4e14-825c-c20690b2fbe2",
+            "66923dc4-3af6-44bb-a499-071739732284",
+            "c3c9cfa7-b024-402d-b02c-5d774ecbdc67",
+            "d395b824-0db8-489e-908c-9ebe32796a91",
+            "f3fd5c56-1448-45e0-9bfb-aba59d6b6ffb",
+            "8b07ba40-3c61-43a0-b778-49ed262a170d",
+            "dbcc6fde-c6f4-460f-90b8-376821c8ba27",
+            "4126a5e8-05fc-49c2-8ebc-572af149e206",
+            "2ded9819-d512-4cbd-8e6a-6ff37664e058",
+            "78f7606b-ecc7-4beb-9c5a-b28e8186cc34",
+            "287cb3f5-7919-4f5d-9491-69c58c3f95f8"
+          ]
+        },
+        {
+          "path": "monthly_coins_b",
+          "prefix": "Monthly",
+          "title": "Coins",
+          "location": "-2554,54,715",
+          "count": 10,
+          "leaders": [
+            "683599f6-258a-4e14-825c-c20690b2fbe2",
+            "12eaa872-8ab2-40fa-a336-02c516d09185",
+            "66923dc4-3af6-44bb-a499-071739732284",
+            "4bf1106a-ec39-4859-8167-be84924abc1d",
+            "1c319423-2a30-4d8f-9cec-5b73324d523e",
+            "60dae4fd-df05-43f3-aefd-c293b5a9bfc7",
+            "83e8df31-40d5-45ac-8d03-a09a2e3ad12e",
+            "c3c9cfa7-b024-402d-b02c-5d774ecbdc67",
+            "a70cac9d-b872-4218-8943-15613cb91efa",
+            "fc6c9853-c10c-4113-a34d-7982a72fe207",
+            "2d4c5f61-2288-4a5d-9261-0dc612a69b80"
+          ]
+        }
+      ],
+      "SKYCLASH": [
+        {
+          "path": "kills",
+          "prefix": "Total",
+          "title": "Kills",
+          "location": "-5,66,-32",
+          "count": 14,
+          "leaders": [
+            "f14aa8f3-6cb2-4207-a9c6-80a22549f9e6",
+            "acab01d7-504b-4fa1-ad2f-b96f96afccbc",
+            "031a3461-a56d-4459-98b6-5bed0c4cafdc",
+            "e2bf0a2f-2cf2-4fc2-9512-511ddc10201a",
+            "3a134c7e-b61e-490b-83d9-86f16969bf7f",
+            "98f8f9c9-165d-4d4b-b672-59040a9407a7",
+            "b346a11c-c2a1-48b6-83f5-f0ec8f89d245",
+            "75ccc0df-5c54-465b-84cd-9a4fc9088719",
+            "90747aac-cb28-48a7-b302-27657b79480c",
+            "ae0f1ccb-16ee-4668-898a-6d510aa41bbe",
+            "df2a01bf-b6b9-40f0-946b-a30fa691ac38",
+            "46edf7bd-b4c2-421b-abb4-9822f7a49e60",
+            "26c24f1b-4038-43bb-87bb-e197f04067f3",
+            "256c3cf7-a2bd-403c-946e-dc206df45903",
+            "8c0ad157-8a4f-4c56-955e-ba705844c727"
+          ]
+        },
+        {
+          "path": "wins_solo",
+          "prefix": "Solo",
+          "title": "Wins",
+          "location": "-5,65,-32",
+          "count": 14,
+          "leaders": [
+            "f14aa8f3-6cb2-4207-a9c6-80a22549f9e6",
+            "3c6a5574-1f89-42fa-ba37-0e6408ed86f7",
+            "b8483b6e-868e-4744-8835-def95862b271",
+            "2d226fed-cc9f-41b0-8a3c-06099255a80c",
+            "ae0f1ccb-16ee-4668-898a-6d510aa41bbe",
+            "4766eecc-d64f-4e6b-9d64-1c7054377ee9",
+            "290dc5c0-9895-4457-85ad-42519979b94a",
+            "2391f36f-56c7-4822-a259-2348041b1332",
+            "f2e6011a-d245-4fa4-a58d-d677f3ba7fdd",
+            "04bcce92-3d14-4c23-b006-fab784b35e31",
+            "3ca16d17-ddfd-417b-bc3a-692861e90e58",
+            "f5a1122d-9ee6-4b0a-9ddb-e6c66476f103",
+            "080bb81b-6672-4acd-abcc-f04217391c57",
+            "07763a30-0da9-4a86-ace1-fbf4e897db25",
+            "e2bf0a2f-2cf2-4fc2-9512-511ddc10201a"
+          ]
+        },
+        {
+          "path": "wins_doubles",
+          "prefix": "Doubles",
+          "title": "Wins",
+          "location": "-5,64,-32",
+          "count": 14,
+          "leaders": [
+            "82131e5b-7af8-4736-8b12-1786897f2af5",
+            "90747aac-cb28-48a7-b302-27657b79480c",
+            "840c16fb-bc94-4c5d-ba35-eec24815ff73",
+            "e61a923b-add0-456f-8750-f665172b0b13",
+            "6846016e-eb0b-4333-9196-aa6015b3a1ad",
+            "6588260a-6b37-4387-882a-72491a6c721d",
+            "f985e04f-2412-4dcd-9878-178a2e690614",
+            "eb10664c-9cd2-4138-b8ef-64d6a6961e9d",
+            "256c3cf7-a2bd-403c-946e-dc206df45903",
+            "5ddcbd14-9c9b-43eb-b782-0d6494ca1f7c",
+            "d45af554-d11c-49bf-b0d7-934d53c628d7",
+            "af193f3e-a821-4848-9129-dc9d32f8dc67",
+            "c36d3745-40f0-49e4-84ec-40b068b8bd11",
+            "db1f7498-97bb-4193-8bc7-0a1d0f82474a",
+            "a439c29f-3c74-4e80-9e0e-443e4b59e8ee"
+          ]
+        },
+        {
+          "path": "wins_team_war",
+          "prefix": "TeamWar",
+          "title": "Wins",
+          "location": "-5,63,-32",
+          "count": 14,
+          "leaders": [
+            "acab01d7-504b-4fa1-ad2f-b96f96afccbc",
+            "98f8f9c9-165d-4d4b-b672-59040a9407a7",
+            "e2bf0a2f-2cf2-4fc2-9512-511ddc10201a",
+            "3a134c7e-b61e-490b-83d9-86f16969bf7f",
+            "031a3461-a56d-4459-98b6-5bed0c4cafdc",
+            "46edf7bd-b4c2-421b-abb4-9822f7a49e60",
+            "75ccc0df-5c54-465b-84cd-9a4fc9088719",
+            "d45af554-d11c-49bf-b0d7-934d53c628d7",
+            "ece01728-04f7-477a-857b-c771fdb5668f",
+            "8c0ad157-8a4f-4c56-955e-ba705844c727",
+            "6f459f53-b14c-41a7-afc0-0b8d452a38c3",
+            "df2a01bf-b6b9-40f0-946b-a30fa691ac38",
+            "256c3cf7-a2bd-403c-946e-dc206df45903",
+            "314486ae-5742-48c2-b052-c99ad595ec10",
+            "b346a11c-c2a1-48b6-83f5-f0ec8f89d245"
+          ]
+        },
+        {
+          "path": "kills_b",
+          "prefix": "Monthly",
+          "title": "Kills",
+          "location": "-5,62,-32",
+          "count": 14,
+          "leaders": []
+        }
+      ],
+      "QUAKECRAFT": [
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "-2554,55,715",
+          "count": 10,
+          "leaders": [
+            "511a4cd1-138b-45b9-8d39-3680454bd6e3",
+            "d9d3cd91-d888-4d04-9193-6185d317c4c0",
+            "7965bf44-c87f-4a86-ba9c-9c4cb395c99c",
+            "bd3492d0-1194-4159-a827-f73c2897640d",
+            "d9f0a68c-ae2c-4af0-9423-fa2264cdc690",
+            "6a862d9b-5eb3-471d-ae69-1ae3383ae471",
+            "b6383fc6-a509-47a5-87c8-1f86255b7227",
+            "01c194a2-c907-4298-a1db-f6517ca0561a",
+            "41f86e22-2f28-4376-912a-505e9c0b7d25",
+            "5a8be40a-aff4-4a8b-b115-c88cc6421427",
+            "c68629ca-35e6-4e8e-a305-edee776b7c74"
+          ]
+        },
+        {
+          "path": "kills_b",
+          "prefix": "Monthly",
+          "title": "Kills",
+          "location": "-2554,54,715",
+          "count": 10,
+          "leaders": []
+        },
+        {
+          "path": "kills_a",
+          "prefix": "Weekly",
+          "title": "Kills",
+          "location": "-2554,53,715",
+          "count": 10,
+          "leaders": []
+        }
+      ],
+      "TRUE_COMBAT": [
+        {
+          "path": "wins",
+          "prefix": "Overall",
+          "title": "Wins",
+          "location": "33,33,10",
+          "count": 10,
+          "leaders": [
+            "8682b351-e9c2-4163-9291-935776608054",
+            "fb3d9649-8a5b-4d5b-91b7-63db14b195ad",
+            "27a86e79-99a6-4f32-a8ae-44b2ea310fe1",
+            "7fa3c2e8-9e3d-4348-aaf1-703bc9da970b",
+            "6a44ee52-e493-4224-97a3-77e4e967657c",
+            "3bd74c4d-69e0-4d76-965f-256b814b9a44",
+            "b4a10dcf-5e79-4128-86a1-1ab2682a7078",
+            "5409757b-8734-4c03-94b1-0bf966a2d594",
+            "2b6730f2-8210-470f-bc37-1f14d63cb862",
+            "1d9c9fdc-4bb1-4e86-add8-bc295df55a75",
+            "25ab0b0e-181b-4047-a9bf-4e5c3b7b477e"
+          ]
+        },
+        {
+          "path": "kills",
+          "prefix": "Overall",
+          "title": "Kills",
+          "location": "33,32,10",
+          "count": 10,
+          "leaders": [
+            "fb3d9649-8a5b-4d5b-91b7-63db14b195ad",
+            "27a86e79-99a6-4f32-a8ae-44b2ea310fe1",
+            "8682b351-e9c2-4163-9291-935776608054",
+            "7fa3c2e8-9e3d-4348-aaf1-703bc9da970b",
+            "6a44ee52-e493-4224-97a3-77e4e967657c",
+            "ff77df09-493f-4c0c-91dd-8520384e3653",
+            "b4a10dcf-5e79-4128-86a1-1ab2682a7078",
+            "5409757b-8734-4c03-94b1-0bf966a2d594",
+            "5120855e-93e7-4b39-bfcb-3794323a5293",
+            "f55d7d4f-dc3f-47e7-b8f4-acb8eaccdc5e",
+            "3bd74c4d-69e0-4d76-965f-256b814b9a44"
+          ]
+        },
+        {
+          "path": "kills_monthly_b",
+          "prefix": "Monthly",
+          "title": "Kills",
+          "location": "33,31,10",
+          "count": 10,
+          "leaders": []
+        },
+        {
+          "path": "kills_weekly_a",
+          "prefix": "Weekly",
+          "title": "Kills",
+          "location": "33,30,10",
+          "count": 10,
+          "leaders": []
+        }
+      ],
+      "WALLS3": [
+        {
+          "path": "finalKills",
+          "prefix": "Overall",
+          "title": "Final Kills",
+          "location": "-2554,54,712",
+          "count": 10,
+          "leaders": [
+            "f01736f9-4059-4585-895c-342c5f087464",
+            "22bd72ab-e315-4766-8cbd-198f2bca58b4",
+            "599ec515-b661-4f70-a509-e50fb07fdc4a",
+            "024c5b04-f2ea-4a09-ab1c-1a1995a359f0",
+            "0fd143aa-5e00-48bc-a73d-baea0d9962fb",
+            "56bc9e11-fd61-4c87-9e35-43e388bdf1f1",
+            "3f420e5b-86c9-4512-bc97-2581d4504738",
+            "b5b77b82-b869-4823-82f9-bf9976df4f65",
+            "516a25ca-08f9-4d30-ac4e-ca842ce0d661",
+            "8b5bacc5-04d0-43d7-ba3a-c08d01613a64",
+            "e94b60ba-b2ba-423d-beb0-0a7c29d6c182"
+          ]
+        },
+        {
+          "path": "monthly_finalKills_b",
+          "prefix": "Monthly",
+          "title": "Final Kills",
+          "location": "-2554,53,712",
+          "count": 10,
+          "leaders": [
+            "ed2bf33a-c3a1-46de-a3dc-8a57eaade4c9",
+            "ac977caa-76cf-40d0-b988-047db1277da7",
+            "bd37a95f-f22c-43e1-b593-5b48519970d2",
+            "f3923c45-8bd7-4f5d-a5b1-616d0b515584",
+            "c1d0bc42-132e-4ed6-9b55-f652b2c59d2b",
+            "cbbebc74-3390-4e1d-b05d-b995a68c570d",
+            "10c481b5-6961-47e4-a03c-7e1fb78b6d5a",
+            "11518f94-f144-48bf-bddd-8d0e11e6129f",
+            "e2d32f7a-7692-45e7-b016-24620366d2b2",
+            "47dbb178-c5d3-4b00-a03a-2ca699054310",
+            "a9c67f66-5b19-4b12-ba7e-e62ccf3f5a1b"
+          ]
+        },
+        {
+          "path": "weekly_finalKills_a",
+          "prefix": "Weekly",
+          "title": "Final Kills",
+          "location": "-2554,52,712",
+          "count": 10,
+          "leaders": [
+            "e2d32f7a-7692-45e7-b016-24620366d2b2",
+            "11518f94-f144-48bf-bddd-8d0e11e6129f",
+            "cbbebc74-3390-4e1d-b05d-b995a68c570d",
+            "0f5919e1-e86d-4fe8-92ee-9fd539ebe564",
+            "523792d5-e499-4ff1-adad-0c29d85b24c9",
+            "aef8e15c-6f27-4c8f-ae15-b17250fc2515",
+            "0fcdbe40-28e9-43fa-9946-7dc648656e17",
+            "d831d3e6-8a5c-43da-835e-31b96b1ce866",
+            "908b8282-2c1a-4fe5-8cf4-51508e0b5a5f",
+            "52d4ccca-c06b-48ce-91e8-1fdae651edfb",
+            "19ae9517-74f2-471d-9bc0-8d20f29a975a"
+          ]
+        }
+      ],
+      "VAMPIREZ": [
+        {
+          "path": "human_wins",
+          "prefix": "Overall",
+          "title": "Human Wins",
+          "location": "-2554,55,715",
+          "count": 10,
+          "leaders": [
+            "dfaa25e4-1c05-4575-bf7f-fccf248f5c6a",
+            "cb81ee59-9012-40fc-9aa0-617907138ea7",
+            "78bb7dfc-2754-4337-a4f3-751b9cf15bdb",
+            "dfecbaf1-3712-4543-ba13-a99f23f70382",
+            "b7a129db-29ea-44d4-be12-a2657b18e469",
+            "91063f03-cd83-4490-acd2-8f5159779c75",
+            "bc2c21c7-4326-49e7-b4b8-826891f8e683",
+            "dbd6b99f-e00c-47d0-bc74-53bdacec035b",
+            "1c6c5575-e25c-42df-a69d-1494d07ed364",
+            "cca4b5f5-f0e5-4d91-93fc-5f8c66724766",
+            "b067662a-8e09-44ac-aa85-ec368284643b"
+          ]
+        },
+        {
+          "path": "human_wins_b",
+          "prefix": "Monthly",
+          "title": "Human Wins",
+          "location": "-2554,54,715",
+          "count": 10,
+          "leaders": [
+            "27be3470-303a-4f1b-8e36-6ac44d5f56cf",
+            "bfc1fbb4-fdde-41c8-b07e-54d92c31497d",
+            "54df6bf6-8d70-42bc-a1cb-12596ed9b57f",
+            "25bb82ff-275b-4eb1-8745-ef4a46a61401",
+            "6f9cc26a-f193-4234-af2b-3949c9dbe6c0",
+            "dbd6b99f-e00c-47d0-bc74-53bdacec035b",
+            "d34ecde8-baa9-465c-88d8-0c58e2ad63b7",
+            "4b0a5410-ce3c-4e3b-8bcd-3930486e9c5e",
+            "f07e748a-f515-4188-ac76-993b9067fdb3",
+            "2046234a-e148-41e6-939c-59d8a8f94506",
+            "74916350-c408-4e9c-bb03-1967f4c48171"
+          ]
+        },
+        {
+          "path": "human_wins_a",
+          "prefix": "Weekly",
+          "title": "Human Wins",
+          "location": "-2554,53,715",
+          "count": 10,
+          "leaders": [
+            "bfc1fbb4-fdde-41c8-b07e-54d92c31497d",
+            "d34ecde8-baa9-465c-88d8-0c58e2ad63b7",
+            "4b0a5410-ce3c-4e3b-8bcd-3930486e9c5e",
+            "27be3470-303a-4f1b-8e36-6ac44d5f56cf",
+            "1c0bca65-34f1-4ed9-9601-ed1bc15f1d05",
+            "12b6e168-f91e-4574-abe6-cbd6cb349801",
+            "114f02bc-990c-42bf-bf3b-b2edfc1494b9",
+            "f07e748a-f515-4188-ac76-993b9067fdb3",
+            "57d80d5f-fd61-49f5-9d6d-b74700a870ec",
+            "121ee892-30f9-4de4-9e6a-353ac6ac740b",
+            "32815bdb-91fd-469a-b50a-68402bc49155"
+          ]
+        }
+      ]
+    }
+  }
